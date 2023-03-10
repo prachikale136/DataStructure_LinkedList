@@ -10,6 +10,7 @@
             list.Add(70);
             list.InserAtParticularPosition(2,51);
             list.RemoveFirstNode();
+            list.RemoveLastNode();
             list.Display();
         }
     }

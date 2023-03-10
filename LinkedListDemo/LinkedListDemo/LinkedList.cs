@@ -84,7 +84,7 @@ namespace LinkedListDemo
             this.Head = this.Head.Next;
             return this.Head;
         }
-       /* public Node RemoveLastNode()
+        public Node RemoveLastNode()
         {
             if(Head == null)
             {
@@ -99,7 +99,7 @@ namespace LinkedListDemo
             }
             newNode.Next = null;
             return Head;
-        }*/
+        }
        
     }
 }
